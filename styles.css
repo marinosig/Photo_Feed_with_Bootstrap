@@ -1,6 +1,7 @@
 body {
 	margin:0;
     }
+
 h1 {
 	text-align:center;
 	margin:0;
@@ -8,7 +9,7 @@ h1 {
 }
 
 .content {
-	background-color: #C0C0C0;
+	background-color: #eeeeee;
 }
 
 .post {
@@ -58,11 +59,17 @@ img {
 	background-color: white !important;
 	text-decoration-color: gray !important;
 	margin:auto !important;
-	}
+}
 
 .navbar-brand {
 	font-size:medium !important;
 	/*color*/
 }
 
+#navbarScroll {
+	float: right;
+}
 
+#buttonpost {
+	float: right;
+}
